@@ -1,6 +1,6 @@
 <header>
 
-# Testando a automação ;) 
+# Testando a automação :smile:_ ;) 
 
 # Hello GitHub Actions
 
